@@ -1,4 +1,4 @@
-const siswa = {
+const siswa1 = {
     nama: "Andi",
     kelas: "X SIJA",
     umur: 16,
@@ -6,13 +6,28 @@ const siswa = {
     nomorHP: 911
 };
 
-const siswa = {
+const siswa2 = {
     nama: "Faril",
     kelas: "X1",
     umur: 15,
-    alamat: "Timbang ,Leksono ,Wonosobo ,RT03 RW01",
-    nomorHP: 62857-2776-1812
+    alamat: {
+        kota: "Wonosobo",
+        kecmatan: "Leksono",
+        desa: "Timbang",
+        dusun: "Wilaya",
+        rumah: "RT03,RW01",
+    },
+    nomorHP: 6285727761812
 };
 
-console.log(siswa.nama);
-console.log(siswa.nomorHP)
+
+
+const siswa =[
+    {nama: "Andi", kelas:"X SIJA"},
+    {nama: "Budi", kelas:"X SIJA"},
+    {nama: "Citra", kelas:"X SIJA"},
+    {nama: "Dani", kelas:"X SIJA"}
+
+];
+
+console.log(siswa[3])
