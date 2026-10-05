@@ -32,4 +32,8 @@ let totalRatarata = nilaiRatarata[0] + nilaiRatarata[1] + nilaiRatarata[2] + nil
 let jumlahSiswa = 5;
 let Ratarata = totalRatarata/jumlahSiswa
 
-console.log(Ratarata);
+let nilaiRataRata =[80, 75, 65, 45, 90, 90, 78, 80, 35, 95];
+let totalRataRAta =nilaiRataRata[0] + nilaiRataRata[1] + nilaiRataRata[2] + nilaiRataRata[3] + nilaiRataRata[4] + nilaiRataRata[5] + nilaiRataRata[6] + nilaiRataRata[7] + nilaiRataRata[8] + nilaiRataRata[9];
+let jumlahSisWa = 10;
+let RataRata = totalRataRAta/jumlahSisWa
+console.log("nilai Rata-Rata ICT LEVEL X adalah" , "=", RataRata );
