@@ -27,4 +27,9 @@ let total =
     harga[1] * jumlah[1]
     harga[2] * jumlah[2]
     
-console.log("harganya",harga[0],"jumlahnya",jumlah[0],"totalnya",total);
+let nilaiRatarata = [80, 75, 90, 85, 70];
+let totalRatarata = nilaiRatarata[0] + nilaiRatarata[1] + nilaiRatarata[2] + nilaiRatarata[3] + nilaiRatarata[4];
+let jumlahSiswa = 5;
+let Ratarata = totalRatarata/jumlahSiswa
+
+console.log(Ratarata);
