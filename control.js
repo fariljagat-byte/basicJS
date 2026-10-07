@@ -12,16 +12,16 @@
 //    console.log("belum")
 //}
 
-//let beratKayu = 401;
+//let beratKayu = 600;
 //if (beratKayu >=500){
-//    console.log("berat kayunya",beratKayu,"KG",",","overweight")
+  //  console.log("berat kayunya",beratKayu,"KG",",","over")
 //}
 //else if (beratKayu <= 400){
- //   console.log("berat kayunya",beratKayu,"KG",",","kayunya ringan")
+   // console.log("berat kayunya",beratKayu,"KG",",","kayunya ringan")
 //}
 
 //else {
-//    console.log("berat kayunya",beratKayu,"KG",",","kayunya berat")
+  //  console.log("berat kayunya",beratKayu,"KG",",","overweight")
 //}
 
 let menu = "bakmi";
