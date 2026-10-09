@@ -88,3 +88,13 @@
 //    console.log("maka gradenya adalah", "C");
 // }
 
+
+let punyaTiket = false;
+let punyaUndangan = false;
+if (punyaTiket && punyaUndangan) {
+   console.log ("Tamu VIP");
+} else if (punyaTiket || punyaUndangan) { 
+   console.log ("Tamu biasa"); 
+} else {
+   console.log ("Tidak boleh masuk")
+}
