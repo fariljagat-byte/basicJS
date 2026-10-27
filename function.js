@@ -120,11 +120,13 @@ const volBalok2 = (p, l, t) => {
 
 
 
+// let Bb = 70;
+// function tampilkanBb() {
+    
+//     console.log(Bb);
+// }
 
-function tampilkanBb() {
-    let Bb = 70;
-    console.log(Bb);
-}
+// tampilkanBb();
+// console.log(Bb);
 
-tampilkanBb();
 
