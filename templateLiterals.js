@@ -27,3 +27,14 @@ console.log(`
     Nama : ${nama}
     Kelas :X ICT
     Nilainya : ${nilai+tambah}`)
+
+
+const siswa ={
+    nama: "Andi",
+    kelas: "X ICT",
+    nilainya: 80,
+};
+
+console.log(`Namanya : ${siswa.nama}
+    Kelas : ${siswa.nilainya}
+    Kelas : ${siswa.kelas}`)
